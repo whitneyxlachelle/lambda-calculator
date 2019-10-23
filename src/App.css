@@ -7,7 +7,8 @@
     padding-bottom: 25px;
 }
 .display {
-    margin-top: 25px;
+    margin: 25px auto;
+    
     height: 100px;
     width: 450px;
     border-radius: 50px;
@@ -19,4 +20,13 @@
     align-items: flex-end;
     padding-right: 8%;
     font-size: 5.0rem;
+  }
+
+  .logo {
+      margin-top: 15px;
+      padding: 10px;
+  }
+
+  .number_button {
+      border-radius: 50%;
   }
