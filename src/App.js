@@ -2,6 +2,7 @@ import React from "react";
 import "./App.css";
 import Numbers from "./components/ButtonComponents/NumberButtons/Numbers";
 import Operators from "./components/ButtonComponents/OperatorButtons/Operators";
+import Specials from "./components/ButtonComponents/SpecialButtons/Specials";
 
 
 // STEP 4 - import the button and display components
